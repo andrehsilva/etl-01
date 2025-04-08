@@ -1,0 +1,106 @@
+id_cliente,nome,email,data_nascimento,cpf,telefone
+cdf6bfc6-7f94-4c2c-907e-f1dae34d2268,Asafe da Paz,azevedomaria-helena@example.org,1958-06-24,370.421.958-41,+55 61 2586-5900
+dbb5a93a-2bee-46e7-9b70-99bd66bc5a82,Julia Leão,caue83@example.org,1987-10-15,987.041.532-60,61 5475-5139
+93d5fc1a-05b3-4988-955a-ea2e00c8a91a,Natália Cavalcante,gabriel45@example.org,1972-01-27,904.351.678-39,0500 944 7684
+697404cf-10d8-46e3-b193-0f29f087b9ee,Sara Sampaio,monteiroluiza@example.net,1960-12-28,768.491.053-10,(071) 6758 1154
+8a3ab253-3fa4-44a1-872f-71324575c6ad,Rafael Castro,davi-luiz66@example.net,INVALIDO,031.572.468-44,+55 21 6989-5999
+beb52bde-2575-4fbd-a55f-81d8a2f41a04,Dr. Gabriel da Cruz,,INVALIDO,486.751.903-01,0500-319-7142
+644b9f8b-0625-43c7-9eb2-28320d4d0949,Helena Jesus,ida-mata@example.org,1986-03-24,894.173.062-78,+55 81 0552-3690
+0ffbde72-71dd-4357-8b17-f40c2adf2785,Bianca Montenegro,abreubenjamin@example.com,1953-12-31,327.640.195-99,41 6905 4178
+e7a676e1-c1b2-4e09-ae90-70897d675a8f,Cecilia Pereira,yansouza@example.org,1989-12-28,853.261.947-91,+55 11 4495 5966
+4e86406e-9e21-4b2c-9a0b-8dc352987cf2,Emanuel Ramos,stella47@example.com,2001-03-29,374.068.512-35,(021) 8625-2536
+e198a7c3-b0e5-4db8-83f1-bedf095ff93a,Luiza Silveira,larissamoraes@example.com,1994-01-04,253.186.904-24,61 8047-2974
+4948625a-340b-4d65-baba-ee7fcabeab76,LUIZ MIGUEL DUARTE,zalmeida@example.net,1974-07-26,485.237.901-79,51 4365 8223
+28f8facd-164f-4431-87ec-1516d96ac855,Miguel da Rosa,bruno10@example.org,1954-03-23,816.273.459-73,+55 81 9631 2258
+8e9d5a3a-6289-483c-9103-651f93f7b165,Levi Marques,araujoallana@example.com,1982-11-19,782.513.490-79,+55 84 1642-7995
+0a1cd771-0797-4d8a-8069-4a74415f0224,Raul Montenegro,diasmaya@example.com,2000-10-25,129.467.530-34,61 6367 0977
+bd9961a6-8f64-4add-a8e9-741d54c59578,Maria Luiza Carvalho,ypinto@example.org,1985-09-12,341.267.859-73,(084) 2874 8064
+03a937c0-019c-4b54-8fbe-f5f99dbda822,Dra. Ana Vitória Caldeira,,1989-03-03,359.021.874-60,51 6239 2186
+2d5d8b77-0e87-4ad1-b532-9a1009e27fc9,Henry Leão,augusto40@example.net,1978-03-04,685.904.312-15,+55 84 4476 7512
+7b26c9af-8c71-4a5d-b66c-6308bf51d27a,João Felipe Andrade,ribeirogabriela@example.com,INVALIDO,495.103.728-97,
+0475d7c6-678e-4ce4-bf98-4a755c5e6058,João Guilherme da Rosa,pedro-lucascavalcante@example.net,1949-03-14,860.432.579-47,+55 41 1240-0231
+57b92c5d-b48a-4204-abb1-73b989a11210,Beatriz Ramos,emilly41@example.com,2004-12-31,319.258.046-15,(021) 6916 6392
+70000145-5da6-4b89-a94a-331ccb1ec1f1,Sr. João Lucas Silva,larissa37@example.com,INVALIDO,379.405.162-99,+55 11 1124-9488
+40d81c76-78a4-404d-b8e2-24bd3a5f4843,Sr. Vinícius Barbosa,ottoda-cunha@example.org,1991-09-02,173.084.562-26,+55 41 8021-6113
+89974408-2e36-41bd-8bce-9522ce21e031,Pietra Santos,,INVALIDO,210.964.537-70,0300 025 5711
+bf2f1334-2f4f-4722-9639-56e3cbff7f53,Luiz Felipe Mendes,acardoso@example.org,1970-08-10,145.973.086-01,+55 31 3477-8101
+8e1dd56c-f0aa-4cbe-8326-1aff4ae95f6a,Sr. Kevin Cunha,antonellateixeira@example.org,1990-02-04,963.810.425-24,+55 (021) 6853 1607
+ecedd865-9989-437f-bb54-c53ea401f6e4,Sara Gonçalves,vitor-hugosousa@example.net,1978-04-01,546.083.972-65,+55 (011) 9918-6843
+c5e63c83-d091-4018-a9a7-351d8e5ac49c,Rodrigo Siqueira,gabrielada-costa@example.net,1945-07-22,721.893.460-96,+55 71 4768-7455
+57e136b9-97ef-4501-a764-1a3a3a4a222a,Theodoro da Rocha,lunnalima@example.net,1963-10-22,297.068.354-74,+55 (051) 2701-9880
+691c5efc-941a-44e0-84d6-c052a2270ccd,Cauã Pastor,fvasconcelos@example.org,1973-09-08,192.754.068-20,+55 (081) 8938-0243
+1addc4af-62e3-461a-b374-cd7b218dc7ae,Caroline Lopes,sfonseca@example.org,1955-01-22,394.268.071-87,(051) 5954-0707
+e87d2118-575d-43f8-8314-f8cd7305c0f7,Ísis Freitas,maya45@example.com,1985-03-02,963.074.825-83,+55 (031) 9483-5588
+a58126c4-d00c-49be-a593-090477db1eab,Sra. Sofia Moraes,elisagarcia@example.org,1950-10-13,513.407.689-84,(071) 8975-8708
+3a89815b-f568-46a0-ba45-71366140633a,Leonardo Nogueira,xbarbosa@example.org,INVALIDO,963.208.714-31,61 3025 4673
+5cee5d21-d9c0-467b-8bea-c551ce730d11,MARCOS VINICIUS ALBUQUERQUE,camargofelipe@example.org,1987-09-19,045.629.871-11,+55 31 3842-9908
+40d28b83-2470-4444-a406-1e42bd88b6ff,Cecília Castro,andre25@example.org,1960-05-15,372.548.691-37,+55 31 1041 5600
+225ec2a9-1333-4913-9c83-514f9076e73b,Rebeca Ferreira,novaeskaique@example.org,1998-08-20,186.305.492-89,
+a76336f0-c8cc-4755-a4d3-e42b43e2e452,Srta. Heloísa Sousa,klopes@example.com,1961-11-19,726.104.853-44,(011) 8221 1970
+00fe747b-f516-470f-ae62-94e0f17df10b,Dr. Luiz Otávio Cunha,nathan43@example.com,2004-02-24,836.205.791-21,41 8558 3004
+d02bf824-3c9b-4af7-88e7-982c491f2d3d,Isaque Guerra,luiz-gustavo11@example.net,1994-11-25,120.693.475-16,+55 (061) 5574-2496
+f15cdef9-c936-45b1-b7be-53ccda7b61a3,Henry Gabriel Gonçalves,rafaela31@example.com,1969-11-19,586.472.913-28,+55 61 0971-5400
+30edd394-8c50-4435-abc7-9b2042cbc479,Ana Lopes,macedojoao-gabriel@example.com,1979-03-08,496.810.273-96,(051) 2569-2173
+1d206f79-c696-451b-9c0f-e89f5b410e28,Cauê Pacheco,maria51@example.org,1991-12-07,354.680.729-47,+55 84 8823 1031
+8ab28174-6021-412a-a50b-65b3e90d1b71,Valentim Mendonça,,1977-12-31,294.056.738-74,11 0773 2686
+c840f573-1bea-4acc-97e2-6a1913b43876,Luiza Siqueira,marcos-vinicius85@example.org,2003-11-24,397.104.285-60,+55 11 1825 1015
+980b57e3-2667-4f4d-aa1a-738e126da637,Isaque Vargas,mcasa-grande@example.org,1986-10-14,729.860.145-85,+55 41 5079-4860
+8e134f6c-7ca8-45be-8d4c-cca3e3f8386a,SR. ARTHUR GABRIEL AZEVEDO,henrycorreia@example.net,1960-01-21,416.387.529-82,11 3970 0267
+c14605e1-39b4-4764-a504-8f02dc5fd6ed,Ravy Sá,rfarias@example.net,INVALIDO,894.653.710-84,71 7180-9197
+58d51234-78d7-4edf-8220-a1ae2d5f3ef8,Lucas da Costa,,INVALIDO,860.397.451-93,+55 (071) 2545-8917
+740b993b-cf53-42aa-85b4-83ca2172ff31,Dr. Davi Lucas Melo,hpimenta@example.org,1972-03-25,317.402.895-79,+55 (051) 4283 7354
+e623e107-d736-4eac-901e-10820fb2800c,Luiz Henrique Costela,aragaomathias@example.org,1968-05-24,578.902.613-30,
+b278a3d1-8a42-4103-ad70-a55e1c17d0e4,Sr. Thales da Cruz,,INVALIDO,590.481.623-51,0500 810 4156
+7e54cc93-f7d5-4f11-bb3b-9c4131c65fa5,Manuella Gonçalves,scamargo@example.net,1960-10-16,752.493.168-91,(051) 8933-7735
+ec056a0d-0831-4d31-aaba-ea6cb2573a91,MATHIAS AZEVEDO,gustavo27@example.com,1944-04-10,206.783.541-62,31 4397-5967
+a6df35c6-f653-46f7-bbbb-73ae3f363489,Stella Sampaio,mariahcastro@example.org,INVALIDO,921.807.634-50,(071) 0960 0720
+4fb97c2c-d6b1-4d8a-9991-708c8357fb12,Sophia Borges,ana-sophiamacedo@example.net,1979-04-11,439.075.816-01,+55 61 2560 8243
+db9380df-d8a4-44be-aef4-073d76a4294c,Brenda Camargo,rcassiano@example.org,1996-04-26,058.134.269-06,71 1972 1522
+372ef086-c5d7-4cb2-a71f-ba62c6e454d1,Aurora Martins,luannovais@example.com,1963-07-01,962.053.814-51,21 0318 8937
+ed9b59fb-adda-4527-8f9b-70b67b80a982,MARIA ALICE ANDRADE,,1946-12-03,794.056.123-52,0800 766 6607
+e0005b80-42ee-4ff0-8320-dd27bd88a1cf,Pedro Henrique Rocha,olivia30@example.org,1955-09-01,802.694.531-05,
+2aafa309-4336-4e18-95c3-4c780aa0ebde,João Miguel Guerra,gpastor@example.net,1970-06-08,510.974.638-93,84 9030-1429
+5d0da591-6f8b-4520-86df-a03f6d6274e0,Maria Cecília Peixoto,,1963-08-24,810.956.723-12,(041) 7734-5303
+0ad728ea-c9dc-4960-b761-540cdeb9adc4,Rafaela Albuquerque,rafael26@example.com,1998-02-23,348.621.590-60,61 0215 4268
+1a3ab347-287e-4c49-abba-4226e82027ac,Alexandre Sá,dom63@example.com,2001-08-12,510.927.468-11,+55 21 4236 4359
+632cfc97-a39d-4036-86e2-60d935c82095,Luiz Gustavo Guerra,cferreira@example.com,INVALIDO,402.567.139-52,(084) 4112 0741
+18e252fc-01ea-4457-906a-528f6e6bf878,Eloah Sampaio,vasconcelosayla@example.com,1987-10-06,693.154.082-33,+55 (041) 6848 3901
+2266330e-a3bb-4e24-a9d6-d304d2390ee3,Noah Campos,,1972-02-16,231.409.578-23,+55 71 9357 8453
+57eddef2-8c2c-49d8-8b1c-34ad99a64282,Henry Gabriel Costa,npeixoto@example.com,1954-06-12,109.584.267-67,61 7514-9785
+419ad5f8-0d5d-44c7-a680-743b7bc1f9f5,Otávio Abreu,abreuluiz-otavio@example.com,1977-12-26,321.675.498-73,0300-272-5591
+b9907666-4122-4eae-b5bf-904ca0bba322,LUARA ALBUQUERQUE,vitorpacheco@example.org,1955-01-31,183.497.625-19,
+00525187-bce8-4086-98ec-71f824442d8e,Maria Liz Garcia,luccapastor@example.org,1993-06-30,297.836.105-03,
+076c0db4-5d06-425e-b2d0-4b805e561fbd,Felipe Castro,diegoteixeira@example.com,1997-01-16,219.078.645-20,+55 (081) 3744 6839
+826af91b-9239-40d6-b2e9-71f4345c7985,Rebeca Pires,vpimenta@example.net,1959-07-08,320.981.456-24,+55 81 5632 5579
+8893caca-3494-486f-9240-74fbca06efdc,Antônio da Paz,melinasilva@example.net,INVALIDO,305.276.981-21,+55 (031) 6224 1756
+f84b965d-de3d-47ed-b593-c0aae6fab623,Hellena Campos,monteiroeloa@example.net,1978-05-11,457.203.896-10,
+4114be82-6bed-4f8f-bffd-b0f53dba7d6e,Antonella Vasconcelos,alvescalebe@example.com,INVALIDO,710.239.684-87,0900-000-6907
+2379c08d-882f-4dac-a7ac-42afaf4887ce,Aylla Duarte,luiz-felipecamargo@example.org,1995-09-29,572.146.308-26,81 3480 8762
+9cd874fd-56f0-437c-a7d0-f7a87959d946,Liam Machado,pcavalcanti@example.net,1992-12-18,901.234.756-43,(041) 8156-4765
+d2cc427a-2694-4e9d-869d-da70adbc28ef,Sophie Freitas,vieiramaria-helena@example.com,INVALIDO,914.537.628-09,
+df2c7e7c-385c-40f7-9a72-e2bfc291a433,Manuela Lopes,asafeaparecida@example.org,1985-10-05,980.453.761-39,
+bc4f34d6-7a99-4a95-9101-28ffb4fd52bc,Yuri Sousa,pda-rocha@example.com,1951-09-28,798.504.163-00,
+8e30bbaf-af7c-4dd5-b989-804beff38eea,Marcos Vinicius Aparecida,isilva@example.com,INVALIDO,851.943.026-06,
+f0598dfd-989c-4861-b21a-a51175242407,Pedro Lucas Duarte,luana19@example.org,2004-02-21,461.928.735-00,11 0979 3832
+ad76b3c3-03f5-4426-ac83-73056bf8719f,Letícia Novais,thiago91@example.org,1983-04-23,028.576.493-47,+55 21 2038-6015
+14c357a7-e70d-426e-ab67-bc35bc0472cc,Nathan Pastor,hteixeira@example.org,INVALIDO,851.962.704-85,(021) 0391 9267
+001fa706-9383-4180-8239-6bbedfb71335,Davi Barros,agathaalbuquerque@example.net,1970-05-16,598.437.602-47,+55 (011) 5399 5943
+690a5b59-15e9-45ae-a3df-07edba57e555,CAUÃ RODRIGUES,raquel33@example.com,INVALIDO,805.741.369-75,+55 (031) 6478-1769
+cf53c92a-451a-4998-8978-c18f118723cc,Leandro Costa,mendesbeatriz@example.org,1991-03-14,654.708.913-48,51 8363 6603
+4a7440b8-ec9f-4c54-bcb2-31cfa3b0caa6,Marcela Nunes,casa-grandeenzo@example.org,1979-06-22,769.034.821-13,51 5139 9695
+d134e388-cf02-4d77-a7ff-bb9896bb3e00,Julia Souza,,1951-02-18,274.865.910-49,84 5185-3818
+780177b3-1388-4b49-9883-9bbc64d54fd3,Arthur da Mota,allana65@example.org,1972-02-01,563.872.914-37,(081) 7377 6224
+bf49a231-e655-4e25-aa54-47483d499c24,Juan Viana,,1976-09-03,698.421.750-49,
+e3674ee4-577c-43dc-a773-3d38b4bcbcee,Luiz Henrique Silveira,enzo-gabrielfreitas@example.com,INVALIDO,076.258.413-08,0500-383-1319
+2943827f-ae67-4d07-8e7a-6517868b18f2,Diego Guerra,otavio66@example.org,1991-07-01,703.254.816-44,+55 71 9182 0231
+348ef7b4-cd58-4521-b3ec-18eb0ba1120f,Ana Júlia da Conceição,marcelo19@example.net,1977-06-18,536.281.790-68,0800-719-3473
+32710913-cfd5-42f2-b44e-9cc901e757b2,Olivia Almeida,luiza70@example.org,1969-06-16,956.130.847-93,(031) 6773-3993
+f3d1be4e-ddf7-4685-be06-4a9dd3f9874c,LUNA ALMEIDA,zgomes@example.com,1960-09-19,540.271.398-79,81 9645-3311
+b6d77aaf-a597-4246-bfa9-a8b9ef17e20f,Davi Lucca da Mota,pda-cunha@example.com,1972-01-08,413.587.290-50,61 3101-3452
+f1f9e45f-f838-4fcd-a2b9-febf26906710,Maria Cardoso,enzo32@example.net,1980-08-22,143.580.796-01,+55 (084) 3252-7416
+1f7a4bf3-a28a-4b5c-84d3-49d936d0db58,José Mendonça,mjesus@example.net,1950-08-19,954.327.160-70,71 4640-0733
+d63b16e9-ca7e-4a0d-ae41-64ab125b82c4,Stella Sampaio,mariahcastro@example.org,INVALIDO,921.807.634-50,(071) 0960 0720
+5ea39f87-6743-4d3c-9f38-339df4fcf69d,Sophia Borges,ana-sophiamacedo@example.net,1979-04-11,439.075.816-01,+55 61 2560 8243
+84100098-641f-436d-bc8d-99ed43674bce,Sophia Borges,ana-sophiamacedo@example.net,1979-04-11,439.075.816-01,+55 61 2560 8243
+2d9d2379-8e3b-454f-9d1f-351efebb2f7f,Sr. Thales da Cruz,,INVALIDO,590.481.623-51,0500 810 4156
+ebdb0d8e-c660-45ab-9edd-e8d560a9c3d3,Sr. Thales da Cruz,,INVALIDO,590.481.623-51,0500 810 4156
