@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+
 
 from ydata_profiling import ProfileReport
 
@@ -8,4 +10,6 @@ df.head()
 
 profile = ProfileReport(df, title="Report Clientes")
 profile.to_file("output/report_clientes.html")
+
+
 

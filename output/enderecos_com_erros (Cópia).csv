@@ -1,0 +1,87 @@
+id_cliente,tipo_endereco,endereco,numero,complemento,bairro,cidade,estado,cep,Ponto referencia
+cdf6bfc6-7f94-4c2c-907e-f1dae34d2268,Comercial,"Condomínio Ayla Nunes, 9",422,Sala 3,Vila Nova Paraíso,CUNHA,INVALIDO,33665-823,Em frente à praça
+697404cf-10d8-46e3-b193-0f29f087b9ee,Residencial,,54,,Lourdes,Nascimento do Sul,Pernambuco,06230-452,
+8a3ab253-3fa4-44a1-872f-71324575c6ad,Comercial,"Campo de Ramos, 6",21,Apto 101,Santa Rosa,Moraes das Pedras,Pernambuco,67203-225,Próximo ao shopping
+beb52bde-2575-4fbd-a55f-81d8a2f41a04,Comercial,"Recanto Pacheco, 9",185,Apto 101,Lourdes,da Cunha,Pernambuco,49195-789,Ao lado da escola
+644b9f8b-0625-43c7-9eb2-28320d4d0949,Comercial,"Conjunto Lucas Albuquerque, 12",64,Apto 101,Santa Sofia,Pacheco,Sergipe,14386-431,Ao lado da escola
+0ffbde72-71dd-4357-8b17-f40c2adf2785,Residencial,"Chácara Gabrielly Melo, 151",14,,VILA SUZANA SEGUNDA SEÇÃO,da Cunha de Cirino,Maranhão,19789470,
+e7a676e1-c1b2-4e09-ae90-70897d675a8f,Residencial,"Sítio Ana Clara Vasconcelos, 77",50,,João Pinheiro,Araújo do Oeste,Piauí,97159268,
+e198a7c3-b0e5-4db8-83f1-bedf095ff93a,Comercial,"Favela Correia, 51",INVALIDO,Sala 3,Mirante,Melo de Sousa,Piauí,32251-668,
+4948625a-340b-4d65-baba-ee7fcabeab76,Comercial,"Distrito de Sampaio, 6",97,,Virgínia,MENDES DE CASA GRANDE,Amazonas,62410-868,
+28f8facd-164f-4431-87ec-1516d96ac855,Residencial,,50,Casa 2,Lagoinha Leblon,Farias,Goiás,84679752,Ao lado da escola
+2d5d8b77-0e87-4ad1-b532-9a1009e27fc9,Residencial,,94,Apto 101,LEONINA,RODRIGUES,Distrito Federal,46301-015,
+7b26c9af-8c71-4a5d-b66c-6308bf51d27a,Comercial,Loteamento de Silveira,32,Sala 3,Vila Da Ária,MELO,INVALIDO,76397865,Em frente à praça
+70000145-5da6-4b89-a94a-331ccb1ec1f1,Comercial,"Rua de da Cunha, 328",736,Sala 3,Zilah Sposito,Campos,Pernambuco,3398407,Próximo ao shopping
+40d81c76-78a4-404d-b8e2-24bd3a5f4843,Residencial,"Trevo de da Costa, 7",6,Sala 3,Caiçaras,Jesus do Amparo,Santa Catarina,97362562,Em frente à praça
+89974408-2e36-41bd-8bce-9522ce21e031,Comercial,"Largo de Araújo, 59",896,Casa 2,Vila São Dimas,da Mata do Galho,Tocantins,13559784,Próximo ao shopping
+8e1dd56c-f0aa-4cbe-8326-1aff4ae95f6a,Residencial,"Núcleo Ana Julia Albuquerque, 530",502,Apto 101,Nazare,Cassiano das Pedras,Espírito Santo,75494-071,Em frente à praça
+c5e63c83-d091-4018-a9a7-351d8e5ac49c,Comercial,"Aeroporto de Pastor, 18",70,Casa 2,Caiçara - Adelaide,Moraes,Mato Grosso do Sul,50697357,Próximo ao shopping
+57e136b9-97ef-4501-a764-1a3a3a4a222a,Comercial,"Praia de Pires, 40",75,Casa 2,Padre Eustáquio,DA ROSA DE VIEIRA,Paraíba,63072-923,
+1addc4af-62e3-461a-b374-cd7b218dc7ae,Residencial,"Largo de Cavalcante, 70",647,Sala 3,São Marcos,Castro,Piauí,68607976,Ao lado da escola
+e87d2118-575d-43f8-8314-f8cd7305c0f7,Residencial,"Vale Barbosa, 8",6,Sala 3,Vista Alegre,Pastor Grande,Pará,94954276,
+a58126c4-d00c-49be-a593-090477db1eab,Residencial,"Vila Rocha, 32",31,Apto 101,Minaslandia,Farias,Maranhão,91025-248,Próximo ao shopping
+5cee5d21-d9c0-467b-8bea-c551ce730d11,Residencial,"Residencial Cunha, 8",361,,Vila Aeroporto Jaraguá,Pereira das Pedras,Rio Grande do Sul,81520-917,Em frente à praça
+40d28b83-2470-4444-a406-1e42bd88b6ff,Residencial,"Ladeira Lavínia Pacheco, 87",638,Sala 3,Inconfidência,Ferreira da Praia,Bahia,64015-831,Ao lado da escola
+225ec2a9-1333-4913-9c83-514f9076e73b,Comercial,"Trevo Thiago Cirino, 1",5,Casa 2,Itatiaia,Alves Paulista,Bahia,4697282,Ao lado da escola
+d02bf824-3c9b-4af7-88e7-982c491f2d3d,Comercial,"Recanto de Duarte, 6",36,Casa 2,Monsenhor Messias,Sousa do Sul,Santa Catarina,13698400,Próximo ao shopping
+30edd394-8c50-4435-abc7-9b2042cbc479,Comercial,"Lago Maria Eduarda Duarte, 83",504,Sala 3,Vila Copasa,Pastor,Rio Grande do Norte,02222-777,
+1d206f79-c696-451b-9c0f-e89f5b410e28,Residencial,"Setor de Rodrigues, 17",72,Sala 3,Nazare,Marques das Flores,Paraíba,14685485,Em frente à praça
+8ab28174-6021-412a-a50b-65b3e90d1b71,Residencial,Trevo de Porto,940,,Jaqueline,Moraes da Mata,INVALIDO,88780437,Ao lado da escola
+c840f573-1bea-4acc-97e2-6a1913b43876,RESIDENCIAL,"Núcleo Maria Liz Dias, 77",838,,Vila Paraíso,Silva,Ceará,86860312,
+980b57e3-2667-4f4d-aa1a-738e126da637,Comercial,"Feira de Teixeira, 74",INVALIDO,,Universo,Rodrigues,Pará,74742-707,Em frente à praça
+8e134f6c-7ca8-45be-8d4c-cca3e3f8386a,Comercial,Avenida de Pastor,741,Casa 2,SERRA,Nunes,Espírito Santo,41804471,Próximo ao shopping
+c14605e1-39b4-4764-a504-8f02dc5fd6ed,Residencial,"Largo de Brito, 77",69,Sala 3,Jardim Leblon,Silveira do Galho,Alagoas,76812-398,Em frente à praça
+58d51234-78d7-4edf-8220-a1ae2d5f3ef8,Residencial,"Sítio da Cunha, 22",21,Apto 101,Independência,NASCIMENTO,Tocantins,87192-864,Ao lado da escola
+740b993b-cf53-42aa-85b4-83ca2172ff31,Comercial,"Sítio de Sales, 59",87,Casa 2,Vila Petropolis,Freitas das Flores,Minas Gerais,19418-550,Ao lado da escola
+ec056a0d-0831-4d31-aaba-ea6cb2573a91,Comercial,"Alameda Cassiano, 2",2,,Primeiro De Maio,Cavalcante das Flores,INVALIDO,70032353,Em frente à praça
+a6df35c6-f653-46f7-bbbb-73ae3f363489,Comercial,"Travessa Théo Caldeira, 37",802,Casa 2,Marieta 1ª Seção,GONÇALVES,Roraima,19498-717,
+4fb97c2c-d6b1-4d8a-9991-708c8357fb12,Residencial,Estrada Hadassa Pereira,92,Apto 101,Jardim Montanhês,Andrade,Maranhão,78891811,Em frente à praça
+372ef086-c5d7-4cb2-a71f-ba62c6e454d1,Comercial,"Rua Pires, 79",63,,Nova Cachoeirinha,Brito,Rondônia,07005-037,Próximo ao shopping
+ed9b59fb-adda-4527-8f9b-70b67b80a982,Comercial,"Recanto da Paz, 4",40,Apto 101,Barro Preto,Freitas,Roraima,90631805,Em frente à praça
+e0005b80-42ee-4ff0-8320-dd27bd88a1cf,Comercial,"Colônia de Costela, 47",67,Apto 101,Vila São Francisco,Pastor,Paraná,14950-823,Próximo ao shopping
+5d0da591-6f8b-4520-86df-a03f6d6274e0,Residencial,"Quadra Isis Vasconcelos, 154",93,,Sport Club,Andrade,Piauí,78321363,Próximo ao shopping
+0ad728ea-c9dc-4960-b761-540cdeb9adc4,Comercial,"Esplanada Melo, 74",69,Apto 101,Pindorama,Ferreira,Alagoas,24010-411,Em frente à praça
+1a3ab347-287e-4c49-abba-4226e82027ac,Comercial,"Chácara de Martins, 62",INVALIDO,,Dom Bosco,da Cunha do Oeste,Alagoas,96371-901,Em frente à praça
+632cfc97-a39d-4036-86e2-60d935c82095,Comercial,"Avenida Joana Costela, 628",78,,Salgado Filho,CARVALHO DE NUNES,Pará,37495-054,Em frente à praça
+18e252fc-01ea-4457-906a-528f6e6bf878,Residencial,"Núcleo de Novaes, 92",8,Casa 2,São Damião,MENDES,Amapá,50209-030,
+2266330e-a3bb-4e24-a9d6-d304d2390ee3,Comercial,,25,Apto 101,Vila Dos Anjos,Ribeiro,INVALIDO,92187391,Em frente à praça
+57eddef2-8c2c-49d8-8b1c-34ad99a64282,Residencial,"Travessa de Cavalcante, 781",INVALIDO,Apto 101,Capitão Eduardo,Peixoto,Paraíba,14888982,Ao lado da escola
+419ad5f8-0d5d-44c7-a680-743b7bc1f9f5,Comercial,"Viaduto Eduarda Nogueira, 73",62,,Vera Cruz,Machado do Sul,Sergipe,16559-761,Ao lado da escola
+b9907666-4122-4eae-b5bf-904ca0bba322,Residencial,"Favela de Fonseca, 6",874,,JARDIM VITORIA,Marques,INVALIDO,00848-505,Em frente à praça
+076c0db4-5d06-425e-b2d0-4b805e561fbd,Comercial,"Estrada João Guilherme Machado, 76",766,Casa 2,Vila São João Batista,Fonseca de Campos,Alagoas,86365-538,
+826af91b-9239-40d6-b2e9-71f4345c7985,Comercial,"Praça de Moreira, 43",3,Apto 101,Vila Fumec,Cassiano,Espírito Santo,50721-842,Ao lado da escola
+8893caca-3494-486f-9240-74fbca06efdc,Residencial,"Vale Silveira, 805",48,Casa 2,VILA NOVA GAMELEIRA 2ª SEÇÃO,Costela do Oeste,Ceará,08064-496,Próximo ao shopping
+f84b965d-de3d-47ed-b593-c0aae6fab623,Comercial,"Rua de Siqueira, 67",12,,Aeroporto,Caldeira de Minas,Maranhão,28158515,Próximo ao shopping
+4114be82-6bed-4f8f-bffd-b0f53dba7d6e,Comercial,"Quadra de da Mata, 39",560,,Antonio Ribeiro De Abreu 1ª Seção,Lima de Souza,Mato Grosso do Sul,01418-381,Em frente à praça
+2379c08d-882f-4dac-a7ac-42afaf4887ce,Residencial,"Travessa Thiago Porto, 4",63,Apto 101,Aeroporto,Peixoto,Rio de Janeiro,43548-371,
+d2cc427a-2694-4e9d-869d-da70adbc28ef,Residencial,,25,Apto 101,Suzana,FERNANDES ALEGRE,Ceará,35932-026,
+df2c7e7c-385c-40f7-9a72-e2bfc291a433,Comercial,"Pátio de Fogaça, 22",52,Apto 101,Vila Esplanada,Marques de Costela,Rio Grande do Sul,79065293,
+bc4f34d6-7a99-4a95-9101-28ffb4fd52bc,Residencial,"Feira Rezende, 59",9,Sala 3,Tupi B,da Rosa,INVALIDO,99554-537,
+8e30bbaf-af7c-4dd5-b989-804beff38eea,Residencial,,68,Casa 2,Barão Homem De Melo 3ª Seção,ARAGÃO DE GOIÁS,Minas Gerais,01427-538,Em frente à praça
+f0598dfd-989c-4861-b21a-a51175242407,Comercial,,INVALIDO,Apto 101,Carmo,Cunha de Novaes,Bahia,01578-500,
+690a5b59-15e9-45ae-a3df-07edba57e555,Residencial,"Passarela Silva, 2",48,,Vila Do Pombal,Alves,Ceará,98758517,Ao lado da escola
+cf53c92a-451a-4998-8978-c18f118723cc,Comercial,"Praça Silva, 64",26,Sala 3,Miramar,Costela de Nascimento,Ceará,49154610,
+4a7440b8-ec9f-4c54-bcb2-31cfa3b0caa6,Residencial,Morro de Almeida,700,,Vila Nova Gameleira 1ª Seção,Aragão de Melo,Pernambuco,64894643,Próximo ao shopping
+d134e388-cf02-4d77-a7ff-bb9896bb3e00,Residencial,,INVALIDO,Sala 3,Nova Esperança,Montenegro,Rio Grande do Norte,54447-147,Ao lado da escola
+bf49a231-e655-4e25-aa54-47483d499c24,Comercial,"Vereda Albuquerque, 38",18,Casa 2,Vila União,Pastor,Rio Grande do Sul,97429217,
+e3674ee4-577c-43dc-a773-3d38b4bcbcee,Residencial,"Estação Camila Aparecida, 698",32,,Vila Pilar,Fogaça,Santa Catarina,96553-454,Próximo ao shopping
+2943827f-ae67-4d07-8e7a-6517868b18f2,Comercial,Jardim Costa,22,,Ipiranga,Câmara da Serra,Santa Catarina,56743136,Próximo ao shopping
+348ef7b4-cd58-4521-b3ec-18eb0ba1120f,Comercial,"Rodovia de Monteiro, 46",77,Apto 101,Pindura Saia,Moura das Flores,Rio de Janeiro,14949348,Ao lado da escola
+32710913-cfd5-42f2-b44e-9cc901e757b2,Comercial,"Esplanada Barros, 61",49,Casa 2,Conjunto Serra Verde,Castro,Bahia,47530148,Próximo ao shopping
+f3d1be4e-ddf7-4685-be06-4a9dd3f9874c,Comercial,"Fazenda de Dias, 27",27,Casa 2,Cônego Pinheiro 1ª Seção,Borges,Santa Catarina,18560-907,
+b6d77aaf-a597-4246-bfa9-a8b9ef17e20f,Residencial,"Vale Marcelo Novais, 27",89,Apto 101,Cidade Jardim Taquaril,MACHADO GRANDE,Minas Gerais,70548617,Ao lado da escola
+f1f9e45f-f838-4fcd-a2b9-febf26906710,Comercial,,29,Sala 3,São Jorge 2ª Seção,Teixeira de Teixeira,INVALIDO,79894954,
+5ea39f87-6743-4d3c-9f38-339df4fcf69d,Residencial,"Alameda Leão, 307",5,Apto 101,São Bernardo,Nogueira,Bahia,66627543,Próximo ao shopping
+84100098-641f-436d-bc8d-99ed43674bce,Comercial,Rua Maria Liz Andrade,35,Apto 101,Jardinópolis,VASCONCELOS DE JESUS,Piauí,8782065,Próximo ao shopping
+2d9d2379-8e3b-454f-9d1f-351efebb2f7f,Residencial,,7,,Vila Coqueiral,Novaes,Bahia,75965-925,Ao lado da escola
+ebdb0d8e-c660-45ab-9edd-e8d560a9c3d3,Residencial,"Fazenda Mariana Aparecida, 1",97,Apto 101,Universitário,Lopes,Rio Grande do Norte,48742696,Em frente à praça
+1bbcf8e0-5009-45c1-9460-84a2939bd5c6,Comercial,"Viaduto Vicente Sousa, 19",62,,Conjunto Califórnia Ii,Dias de da Cunha,Distrito Federal,9413229,Em frente à praça
+ddb19f9d-a971-45fa-8fff-39d4535114f0,Comercial,"Viela Pietra da Cruz, 32",899,Sala 3,São Marcos,Rezende,Goiás,69431169,Ao lado da escola
+a3465d56-417a-4bd8-830f-4030d44aecb7,Comercial,"Estrada Natália Rocha, 9",695,Casa 2,Vila São Geraldo,Albuquerque do Oeste,Rondônia,42583-956,Ao lado da escola
+b9292450-9eea-4bc0-8b1c-7ba4ef1044a6,Comercial,"Praia Theodoro Andrade, 4",20,Apto 101,Vila Havaí,da Luz,Santa Catarina,23037043,Próximo ao shopping
+12dcb494-e242-4a81-b99a-cb9010c0674c,Residencial,"Aeroporto Silva, 57",6,Sala 3,Santa Amelia,Sá,Mato Grosso,86490818,
+e82570b3-a9a2-4a15-814a-f19b010a86f9,Comercial,"Pátio Carolina Nogueira, 60",76,Sala 3,São José,Pires,São Paulo,03816-197,Em frente à praça
+6d555002-cb21-468c-b4ec-607b7ec9285f,Comercial,"Vale Novaes, 85",7,Apto 101,Carmo,Pires,Distrito Federal,14151883,Próximo ao shopping
+44484dfc-73c6-4adf-b1d3-2b59a05ae6d2,Residencial,Favela Pires,169,Sala 3,Confisco,Mendes,Maranhão,60813761,Ao lado da escola
+577e0ee5-daa7-47de-bc35-de581b3bcfb8,Comercial,"Sítio de Moura, 19",88,Casa 2,Marilandia,Lima,Pará,70258754,
+f7706757-eb56-4b9f-8e33-85a2e5d4425c,Residencial,Loteamento Maria Vitória Sousa,55,Casa 2,Carmo,Carvalho,Rio de Janeiro,42035-622,Em frente à praça
